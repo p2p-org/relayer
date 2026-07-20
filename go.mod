@@ -3,7 +3,7 @@ module github.com/iqlusioninc/relayer
 go 1.14
 
 require (
-	github.com/CosmicCompass/post-chain v0.0.0-20200425063042-f936180f841c
+	github.com/CosmicCompass/post-chain v0.0.0-20200513071005-7eca845d2d4d
 	github.com/avast/retry-go v2.6.0+incompatible
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
 	github.com/containerd/continuity v0.0.0-20200228182428-0f16d7a0959c // indirect
