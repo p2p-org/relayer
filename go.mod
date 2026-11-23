@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/CosmicCompass/post-chain v0.0.0-20200425063042-f936180f841c
-	github.com/avast/retry-go v2.6.0+incompatible
+	github.com/avast/retry-go v2.7.0+incompatible
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
 	github.com/containerd/continuity v0.0.0-20200228182428-0f16d7a0959c // indirect
 	github.com/cosmos/cosmos-sdk v0.34.4-0.20200423152229-f1fdde5d1b18
